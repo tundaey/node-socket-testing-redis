@@ -1,2 +1,2 @@
 # node-socket-testing-redis
-Writing tests for socket.io and redis using nodejs
+Writing tests for socket.io and redis using nodejs and express
